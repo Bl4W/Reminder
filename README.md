@@ -8,6 +8,7 @@ Program purpose:
   Insert different notifications with strict time and date. Running program on background notify user with Baloon Tip.
 
 
+
 Česky:
 Jednoduchý program tvořený na platformě Windows Forms. 
  
